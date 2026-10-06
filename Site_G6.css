@@ -1,0 +1,17 @@
+#cabecalho{
+    width: 100vw;
+    height: 7vh;
+    background-color: red;
+}
+
+.hero{
+    width: 100vw;
+    height: 55vh;
+    background-color: green;
+}
+
+.beneficios{
+    width: 100vw;
+    height: 30vh;
+    background-color: blue;
+}
